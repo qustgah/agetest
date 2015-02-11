@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  -->
+    <string name="app_name">Age Test Camera</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="grey">Grey Style</string>  
+    <string name="engraving">Engraving Style</string>
+    <string name="retro">Retro Style</string>
+    <string name="comics">Comics Style</string>
+    <string name="molten">MOLTEN Style</string>
+    <string name="softens">Soften Style</string>
+    <string name="feather">Feather Style</string>
+    <string name="Relief">Relief Style</string>
+    <string name="paintting">Painting Style</string>
+    <string name="anti_color">Anti-color Style</string>
+    <string name="illuminition">Illumination Style</string>
+    <string name="lomo">LOMO Style</string>
+    <string name="distorting_mirror">Distorting-mirror Style</string>
+    <string name="freeze"> Freeze Style</string>
+    <string name="nonstyle">Non Style</string>
+     <string name="toast1">Take picture until detect scores</string>
+         <string name="asian">Asian</string>
+    <string name="white">White</string>
+    <string name="dark">Dark</string>
+        <string name="nanying">Little boy</string>
+    <string name="shaonan">Boy</string>
+    <string name="growman">Growing Man</string>
+    <string name="matureman">Mature Man</string>
+    <string name="strangeuncle">Strange Uncle</string>
+    <string name="bobo">Old Uncle</string>
+    <string name="grandfather">Grandfather</string>
+    <string name="nvying"> Little Girl</string>
+    <string name="shaonv">Maiden</string>
+    <string name="guniang">Girl</string>
+    <string name="shengnv">Big girl</string>
+    <string name="ayi">Auntie</string>
+    <string name="daniang">Aunt</string>
+    <string name="nainai">Grandmother</string>
+    <string name="drawsuccess">Draw face success</string>
+    <string name="savesuccess">Succeed saved atSdcard/AgeTest</string>
+    <string name="agenum">Years old</string>
+    
+     <string name="gender">SEX:</string>
+    <string name="testage">AGE:</string>
+    <string name="testskin">SKIN COLOR:</string>
+    <string name="charmindex">CHARM INDEX:</string>
+    
+     <string name="sharecontent">Really Great fun!I am Using Age Camera testing my age!</string>
+    <string name="sharecontent1">Years old!!! it is wonderful,Do u want to try it?\n https://play.google.com/store/apps/details?id=</string>
+    <string name="ad_unit_id">ca-app-pub-9647676735285842/4789905612</string>
+     <string name="detecting">testing,please wait~</string>
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">年齢検出カメラ</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="grey">白黒</string>  
+    <string name="engraving">版画</string>
+    <string name="retro">怀旧</string>
+    <string name="comics">絵本</string>
+    <string name="molten">铸融</string>
+    <string name="softens">柔化</string>
+    <string name="feather">羽化</string>
+    <string name="Relief">浮雕</string>
+    <string name="paintting">油画</string>
+    <string name="anti_color">反色</string>
+    <string name="illuminition">光照</string>
+    <string name="lomo">LOMO</string>
+    <string name="distorting_mirror">哈哈镜</string>
+    <string name="freeze">冰冻</string>
+    <string name="nonstyle">效果</string>
+    <string name="toast1">点数が検出顔写真を撮る。</string>
+    <string name="asian">アジアの色</string>
+    <string name="white">白い</string>
+    <string name="dark">黒い</string>
+    
+    <string name="nanying">男の子
+</string>
+    <string name="shaonan">靑春の少年</string>
+    <string name="growman">成長の中の男</string>
+    <string name="matureman">大人の男</string>
+    <string name="strangeuncle">変なおじさん</string>
+    <string name="bobo">伯父</string>
+    <string name="grandfather">おじいさん</string>
+    <string name="nvying">小さい女の子</string>
+    <string name="shaonv">妙齢少女</string>
+    <string name="guniang">いわ涼</string>
+    <string name="shengnv">負け犬</string>
+    <string name="ayi">おばさん</string>
+    <string name="daniang">おばあさん</string>
+    <string name="nainai">おばあさん</string>
+    <string name="drawsuccess">かく成功</string>
+    <string name="savesuccess">ファイルの保存Sdcard / AgeTest目録下</string>
+    <string name="agenum">歳</string>
+    <string name="gender">テスト性別：</string>
+    <string name="testage">テスト年齢：</string>
+    <string name="testskin">肌色：</string>
+    <string name="charmindex">魅力指数:</string>
+    <string name="sharecontent">本当に楽しくて、私の年齢でカメラテスト年齢</string>
+    <string name="sharecontent1">歳！！！！よかった、添加フィルターあなたもテストでしょう！\n https://play.google.com/store/apps/details?id=</string>
+      <string name="ad_unit_id">ca-app-pub-9647676735285842/4789905612</string>
+     <string name="detecting">年龄及其他参数测试中，请稍候~</string>
+</resources>

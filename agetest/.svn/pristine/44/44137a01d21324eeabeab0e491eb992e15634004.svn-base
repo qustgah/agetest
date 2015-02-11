@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <string name="app_name"> возраст  обнаружения  фотоаппарат </string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="grey">черно - белый </string>  
+    <string name="engraving"> эстамп </string>
+    <string name="retro"> ностальгия </string>
+    <string name="comics">Комиксы </string>
+    <string name="molten"> литой  оттепель </string>
+    <string name="softens"> смягчить </string>
+    <string name="feather"> перо</string>
+    <string name="Relief"> барельеф </string>
+    <string name="paintting">маслом </string>
+    <string name="anti_color"> сепия </string>
+    <string name="illuminition"> свет </string>
+    <string name="lomo">LOMO</string>
+    <string name="distorting_mirror"> кривое зеркало </string>
+    <string name="freeze"> замораживание </string>
+    <string name="nonstyle"> эффект </string>
+    <string name="toast1"> лицо  может быть  обнаружен  баллы только  фотографировать  О </string>
+    <string name="asian"> в Азии  цвет кожи </string>
+    <string name="white"> белый </string>
+    <string name="dark"> черный </string>
+    
+    <string name="nanying"> мальчик </string>
+    <string name="shaonan">молодежь  мальчиков </string>
+    <string name="growman"> рост  человека </string>
+    <string name="matureman"> зрелый человек </string>
+    <string name="strangeuncle">странный дядя </string>
+    <string name="bobo"> дядя </string>
+    <string name="grandfather"> дедушка </string>
+    <string name="nvying"> девочка </string>
+    <string name="shaonv"> молодая девушка </string>
+    <string name="guniang">Тетя  круто </string>
+    <string name="shengnv"> старая дева </string>
+    <string name="ayi"> тетя </string>
+    <string name="daniang">тетя </string>
+    <string name="nainai">бабушка </string>
+    <string name="drawsuccess"> успех  картины  лицо </string>
+    <string name="savesuccess"> Файл сохранён  на  Sdcard/AgeTest  каталог </string>
+    <string name="agenum"> лет </string>
+    <string name="gender"> испытания  пола  : </string>
+    <string name="testage"> испытания  возраст: </string>
+    <string name="testskin"> цвет  : </string>
+    <string name="charmindex"> индекс  :  очарование </string>
+    <string name="sharecontent"> Это смешно  ,  я  с  возрастом  фотоаппарат  испытания  возраст </string>
+    <string name="sharecontent1"> лет!  !  !  !  Отлично  ,  вы также можете добавить  фильтр  вы также  испытания  ! \n https://play.google.com/store/apps/details?id=</string>
+      <string name="ad_unit_id">ca-app-pub-1028413635974371/8985655241</string>
+     <string name="detecting">年龄及其他参数测试中，请稍候~</string>
+       -->
+</resources>
